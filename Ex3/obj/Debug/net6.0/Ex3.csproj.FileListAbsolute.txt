@@ -1,0 +1,15 @@
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\obj\Debug\net6.0\Ex3.csproj.AssemblyReference.cache
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\obj\Debug\net6.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfoInputs.cache
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfo.cs
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\obj\Debug\net6.0\Ex3.csproj.CoreCompileInputs.cache
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\bin\Debug\net6.0\Ex3.exe
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\bin\Debug\net6.0\Ex3.deps.json
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\bin\Debug\net6.0\Ex3.runtimeconfig.json
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\bin\Debug\net6.0\Ex3.dll
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\bin\Debug\net6.0\Ex3.pdb
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\obj\Debug\net6.0\Ex3.dll
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\obj\Debug\net6.0\refint\Ex3.dll
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\obj\Debug\net6.0\Ex3.pdb
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\obj\Debug\net6.0\Ex3.genruntimeconfig.cache
+D:\Инна учёба\2023_GeekBrains\Задания\DZ_№8_2023.04.27\DZ_8_2023.04.27\Ex3\obj\Debug\net6.0\ref\Ex3.dll
